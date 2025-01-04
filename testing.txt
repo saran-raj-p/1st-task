@@ -4,3 +4,9 @@ testing
 Hii 
 Hello 
 How are you
+
+This is the blog application
+
+
+
+
